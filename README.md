@@ -1,6 +1,6 @@
 # ☕ About me:
-I'm a aspiring Developer, just getting my feet wet with Vue.js, Spring Boot Java and Flask Python. Experience? Still brewing, but my passion for coding is powered by endless curiosity and all-night debug sessions! I grind through bugs till dawn, inspired by: "When the world goes to sleep, developers stay up to chase their dreams" - Apple WWDC 2019. Never shy about diving into new tech, because staying curious keeps my code fresh and my skills sharper! 
-My code recipe: caffein - code out, and a dash of "why won't you work?!" energy, kkk :))
+ 
+I'm an aspiring developer, diving into software development and automation with a deep passion. Still honing my skills, I’m always learning, experimenting, and embracing cutting-edge technologies to grow every day - with a shot of coffee, a flow of code, and a dash of "let’s make this work!" energy, lol :))
 
 
 ## 🌐 Socials:
